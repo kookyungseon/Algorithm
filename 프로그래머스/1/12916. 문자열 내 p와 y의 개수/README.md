@@ -1,10 +1,10 @@
 # [level 1] 문자열 내 p와 y의 개수 - 12916 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916?utm_source=chatgpt.com) 
 
 ### 성능 요약
 
-메모리: 92.2 MB, 시간: 0.06 ms
+메모리: 84.3 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 25일 22:48:57
+2025년 10월 25일 19:38:39
 
 ### 문제 설명
 
